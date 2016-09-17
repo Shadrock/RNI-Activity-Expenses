@@ -33,6 +33,7 @@ Several abbreviations are used throughout this data set. They include:
 * VN = Viet Nam
 * IND = Indonesia 
 * NYC = New York City
+* DC = Washington, D.C. 
 * RT = round trip 
 * ATL = Atlanta
 * USAID = [U.S. Agency for International Development](https://www.usaid.gov)
