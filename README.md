@@ -37,8 +37,8 @@ Several abbreviations are used throughout this data set. They include:
 * RT = round trip 
 * ATL = Atlanta
 * USAID = [U.S. Agency for International Development](https://www.usaid.gov)
-* USAID/OTI - [U.S. Agency for International Development's Office of Transition Initiatives](https://www.usaid.gov/who-we-are/organization/bureaus/bureau-democracy-conflict-and-humanitarian-assistance/office-1)
-* DHS - [The Demographic and Health Surveys Program](http://dhsprogram.com/)
+* USAID/OTI = [U.S. Agency for International Development's Office of Transition Initiatives](https://www.usaid.gov/who-we-are/organization/bureaus/bureau-democracy-conflict-and-humanitarian-assistance/office-1)
+* DHS = [The Demographic and Health Surveys Program](http://dhsprogram.com/)
 * HOT = [Humanitarian OpenStreetMap Team](https://hotosm.org/)
 * OSM = [OpenStreetMap](https://www.openstreetmap.org/)
 * JKT = Jakarta
