@@ -1,15 +1,15 @@
 # RNI-Activity-Expenses
 
 
-This repository contains a dataset that details expenses for activities that were conducted as part of [Ushahidi](https://www.ushahidi.com)'s [Resilience Network Initiative](http://cityresilience.net/what-is-rni.html) ("RNI") in Indonesia. [GeoJSON](http://geojson.org/) is a great open standard format designed for representing simple geographical features, which also allows for [data to be previewed as a map via Github](https://help.github.com/articles/mapping-geojson-files-on-github/). 
+This repository contains a dataset detailing expenses for activities that were conducted as part of [Ushahidi](https://www.ushahidi.com)'s [Resilience Network Initiative](http://cityresilience.net/what-is-rni.html) ("RNI") in Indonesia.
 
 ##Data
-The [data folder](https://github.com/Shadrock/RNI-Activity-Map/tree/master/Data) contains:
+The [data folder](https://github.com/Shadrock/RNI-Activity-Expenses/tree/master/data) contains:
 * A polygon to denote the [boundaries of the neighborhood of Purwodinatan] (Data/Purwodinatan%20Neighborhood%20Project%20Area.geojson), which was the focus of our work in Semarang, Indonesia. You can learn more about that project [in this video](https://vimeo.com/129603769) and [this blog post](http://www.100resilientcities.org/blog/entry/kathmandu-semarang-citizen-engagement-and-open-data-mapping-in-two-cities#/-_/).
-* A complete [list of **all** activities](Data/RNI_activities_2013-2015.geojson) conducted as part of RNI in GeoJSON. 
-* A complete [list of **all** activities](Data/RNI_download_20160811.csv) conducted as part of RNI in a table... for those who like that sort of thing. 
+* A complete [list of **all** expenses](data/RNI IND Project Expenditures 2014-2015.json) associated with RNI's work in Indonesia in the JSON format. [JSON](http://www.json.org/), which is a great open standard data format. 
+* A complete [list of **all** expenses](data/RNI IND Project Expenditures 2014-2015.csv) associated with RNI's work in Indonesia in a table... for those who like that sort of thing. 
 
-Note that each record contains a field labeled "Geo Precision Code." The number provided corresponds to the [International Aid Transparency Initiative's (IATI) geographical precision standard](http://iatistandard.org/202/codelists/GeographicalPrecision/), which clarifies the accuracy and usage of geographical coordinates.
+Note that...
 
 These data were created and used primarily as a method of real-time reporting to donors and other stakeholders and to document events that were of importance to complete various aspects of the overall project. Data were created using the Ushahidi platform ([Github here](https://github.com/ushahidi/platform) | [project deployment here](http://rni.ushahidi.com)) and replicated in the OpenExplorer platform ([project deployment here](https://openexplorer.com/expedition/rnix)) to provide multiple ways of interacting with the data. 
 
