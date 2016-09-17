@@ -5,7 +5,7 @@ This repository contains a dataset detailing expenses for activities that were c
 
 ##Data
 The [data folder](https://github.com/Shadrock/RNI-Activity-Expenses/tree/master/data) contains:
-* A complete [list of **all** expenses](data/RNI IND Project Expenditures 2014-2015.json) associated with RNI's work in Indonesia in the JSON format. [JSON](http://www.json.org/), which is a great open standard data format. 
+* A complete [list of **all** expenses](data/RNI IND Project Expenditures 2014-2015.json) associated with RNI's work in Indonesia in [JSON](http://www.json.org/), which is a great open standard data format. 
 * A complete [list of **all** expenses](data/RNI IND Project Expenditures 2014-2015.csv) associated with RNI's work in Indonesia in a table... for those who like that sort of thing. 
 
 ###Key Code
