@@ -1,4 +1,4 @@
-# RNI-Activity-Expenses
+# RNI Activity Expenses
 
 
 This repository contains a dataset detailing expenses for activities that were conducted as part of [Ushahidi](https://www.ushahidi.com)'s [Resilience Network Initiative](http://cityresilience.net/what-is-rni.html) ("RNI") in Indonesia. You can learn more about the project [in this video](https://vimeo.com/129603769) and [this blog post](http://www.100resilientcities.org/blog/entry/kathmandu-semarang-citizen-engagement-and-open-data-mapping-in-two-cities#/-_/).
