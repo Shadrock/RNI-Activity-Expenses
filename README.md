@@ -19,13 +19,13 @@ The [data folder](https://github.com/Shadrock/RNI-Activity-Expenses/tree/master/
 * __Purpose__ - Specifies the purpose or activity to which the expenditure belongs such as attending a planning meeting or a payment to a local partner for a specific event.
 * __Notes__ - Additional detail.
 * __Date of Sale__ - Date in dd/mm/yy format. This indicates the date the purchase or transfer of funds was made.
-* __Location at Point of Sale__ - The physical location of the entity receiving funds. "Online" refers to purchases made via the web in which case the physical location of the reeceiving entity may be unkown. 
+* __Location at Point of Sale__ - The physical location of the entity receiving funds. "Online" refers to purchases made via the web in which case the physical location of the receiving entity may be unknown. 
 * __Country of Activity__ - Primary country in which the activity took place.
 * __City of Activity__ - Primary city in which the activity took place.
-* __Amount (USD)__ - Cost in U.S. dollars. Costs in other curencies were converted using Google's currency converter or bank statements. 
+* __Amount (USD)__ - Cost in U.S. dollars. Costs in other currencies were converted using Google's currency converter or bank statements. 
 * __Code__ - Refers to which aspect of the project the expense can be associated:
   * RNI - Expenses that were applicable to the entire RNI project, such as donor meetings or conferences.
-  * RNI/IND - Expenses exclusivly related to activities in Indonesia. 
+  * RNI/IND - Expenses exclusively related to activities in Indonesia. 
   * RNI/IND/VN - Expenses that were applicable to project work in Viet Nam and Indonesia. In some cases it was more cost effective to combine trips to limit the amount spent on airfare or other travel costs. In these cases it wasn't possible to determine exactly which portion of the expense could be assigned to only one project site. 
 
 ###Abbreviations
